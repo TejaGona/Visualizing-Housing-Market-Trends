@@ -16,7 +16,7 @@ This project focuses on visualizing housing market trends through comprehensive 
 ## Key Components
 
 ### Visualizations
-- **Interactive Dashboards:** Built with Tableau (.twb files)
+- **Interactive Dashboards:** Built with Tableau
 - **Data Stories:** Narrative visualizations showcasing housing market insights
 - **Screenshots:** Visual documentation of dashboard interfaces
 
